@@ -1,0 +1,2 @@
+# photovoltaic
+python main.py
